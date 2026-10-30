@@ -1,0 +1,26 @@
+body{
+    background:#f4f8fb;
+    font-family:Arial, sans-serif;
+}
+
+.navbar{
+    padding:15px;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+footer{
+    margin-top:80px;
+}
+
+img{
+    max-width:100%;
+}
